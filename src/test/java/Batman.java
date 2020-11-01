@@ -3,6 +3,7 @@ public class Batman {
         System.out.println("Batman");
         //catch
         //run
-        //add new
+        //add n
+        //yeniden ekle
     }
 }
