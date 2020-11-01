@@ -5,5 +5,6 @@ public class Batman {
         //run
         //add n
         //yeniden ekle
+        //conflict ekle pusy yap
     }
 }
